@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="KahootPY",
+    name="PyHoot",
     version="1.0.0",
-    author="theusaf",
-    author_email="theusafyt@gmail.com",
+    author="Nexity",
+    author_email="o7fireincorporated@gmail.com",
     description="A python package to interact with Kahoot!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/theusaf/KahootPY",
+    url="https://github.com/o7-Fire/KahootPY/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
