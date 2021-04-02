@@ -19,4 +19,4 @@ bot.on("Joined",joinHandle)
 ```
 
 # Documentation:
-Work in progress. This is taking longer than expected because I am not good at python.
+Work in progress. This is taking shorter than expected because I am good at python.
