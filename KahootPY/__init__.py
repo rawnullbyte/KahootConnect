@@ -1,9 +1,4 @@
-import time
-import asyncio
-import importlib
-import ssl
-import json
-import inspect
+import time, asyncio, importlib, ssl, json, inspect
 from pymitter import EventEmitter
 from aiocometd import Client
 from numbers import Number

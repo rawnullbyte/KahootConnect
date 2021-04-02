@@ -8,7 +8,7 @@ import urllib
 import asyncio
 import json as JSON
 from user_agent import generate_user_agent as UserAgent
-from .src.util.errors import *
+from errors import *
 
 loop = asyncio.get_event_loop()
 

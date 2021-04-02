@@ -7,7 +7,3 @@ build
 KahootPY.egg-info
 dist
 KahootPY/foo
-examples
-KahootPY
-setup.py
-Documentation.md
