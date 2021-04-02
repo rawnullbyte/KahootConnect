@@ -1,4 +1,4 @@
-**Note: The current version in this repository is incomplete and will not work**
+**Note: This project was taken down and o7 Fire has brought it back alive.**
 
 # About
 KahootPY is a library to interact with the Kahoot API. KahootPY supports joining and interacting with quizzes and challenges.
