@@ -10,7 +10,7 @@ PyHoot is a library to interact with the Kahoot API. PyHoot supports joining and
 # Usage
 
 ```py
-from KahootPY import client
+from PyHoot import client
 bot = client()
 bot.join(12345,"PyHoot")
 def joinHandle():
