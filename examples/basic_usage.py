@@ -2,7 +2,7 @@ from kahoot import client
 pin = 473403
 bot = client()
 # bot.loggingMode = True
-bot.join(pin,"KahootPY",["a","b","c"])
+bot.join(pin,"PyHoot",["a","b","c"])
 def joined():
     print("joined")
 bot.on("ready",joined)
