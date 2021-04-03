@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="PyHoot",
-    version="1.0.0",
+    version="1.0.1",
     author="Nexity",
     author_email="o7fireincorporated@gmail.com",
     description="A python package to interact with Kahoot!",

@@ -1,4 +1,4 @@
-from kahoot import client
+from PyHoot import client
 pin = 473403
 bot = client()
 # bot.loggingMode = True

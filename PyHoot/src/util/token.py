@@ -8,7 +8,6 @@ import urllib
 import asyncio
 import json as JSON
 from user_agent import generate_user_agent as UserAgent
-from errors import *
 
 loop = asyncio.get_event_loop()
 
@@ -58,7 +57,7 @@ async def requestToken(pin,client):
     url = (options.get("protocol") or "https:") + "//" + (options.get("host") or "kahoot.it") + (options.get("port") or "") + options.get("path")
     r = requests.request(options.get("method") or "GET",url,headers=options.get("headers"))
     if not r.headers.get("x-kahoot-session-token"):
-        raise InvalidPINException("Invalid PIN")
+        raise Exception("Invalid PIN")
     try:
         data = r.json()
         token = r.headers.get("x-kahoot-session-token")
@@ -105,7 +104,7 @@ def concatTokens(headerToken,challengeToken):
 
 async def resolve(pin,client):
     if math.isnan(int(pin)):
-        raise InvalidPINException("Non-numberical PIN")
+        raise Exception("Non-numberical PIN")
     if str(pin)[0] == "0":
         return requestChallenge(pin,client)
     data = await requestToken(pin,client)
