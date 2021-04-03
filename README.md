@@ -6,6 +6,8 @@ PyHoot is a library to interact with the Kahoot API. PyHoot supports joining and
 # Installation
 
 `pip install -U PyHoot`
+or, clone the repo and
+`py -m pip install -e C:\Users\User\Documents\GitHub\PyHoot`
 
 # Usage
 
