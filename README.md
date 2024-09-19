@@ -1,5 +1,5 @@
 # About
-KahootConnect is a Kahoot API written in python, that Kahoot will not take down 🤡
+KahootConnect is a Kahoot API written in python, that Kahoot will can't take down 🤡 #REForever
 
 # Installation
 
@@ -9,18 +9,11 @@ or, clone the repo and
 
 # Usage
 
-```py
-from PyHoot import client
-bot = client()
-bot.join(12345,"PyHoot")
-def joinHandle():
-  pass
-bot.on("Joined",joinHandle)
-```
+Work In Progress!
 
 # Documentation:
 Work In Progress!
 
 # Kahoot Docs
-## [Need api docs?](KahootProtocol.md)
-## [More detailed docs?](KahootProtocolDetailed.md)
+ [Need api docs?](KahootProtocol.md)
+ [More detailed docs?](KahootProtocolDetailed.md)
