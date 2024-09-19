@@ -1,13 +1,11 @@
-**Note: This project was taken down and o7 Fire has brought it back alive.**
-
 # About
-PyHoot is a library to interact with the Kahoot API. PyHoot supports joining and interacting with quizzes and challenges.
+KahootConnect is a Kahoot API written in python, that Kahoot will not take down 🤡
 
 # Installation
 
-`pip install -U PyHoot`
+`pip install -U KahootConnect`
 or, clone the repo and
-`py -m pip install -e C:\Users\User\Documents\GitHub\PyHoot`
+`python3 -m pip install -e ./KahootConnect`
 
 # Usage
 
@@ -21,4 +19,4 @@ bot.on("Joined",joinHandle)
 ```
 
 # Documentation:
-Work in progress. This is taking shorter than expected because I am good at python.
+Work In Progress!
