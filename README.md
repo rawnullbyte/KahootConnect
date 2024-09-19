@@ -20,3 +20,6 @@ bot.on("Joined",joinHandle)
 
 # Documentation:
 Work In Progress!
+
+# Need api docs?
+  (API DOCS)[KahootProtocol.md]
