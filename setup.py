@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="PyHoot",
-    version="1.0.1",
-    author="Nexity",
-    author_email="o7fireincorporated@gmail.com",
+    name="KahootConnect",
+    version="0.2.6",
+    author="HackySoft",
+    author_email="andrexyt@proton.me",
     description="A python package to interact with Kahoot!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/o7-Fire/KahootPY/",
+    url="https://github.com/HackySoftOfficial/KahootConnect",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -19,6 +19,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    keywords=["kahoot","bot"],
-    install_requires=["websockets","pymitter","requests","user_agent"],
+    keywords=["kahoot","bot","spam"],
+    install_requires=["websockets","httpx","asyncio"],
 )

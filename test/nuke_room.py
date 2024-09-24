@@ -7,13 +7,8 @@ import json
 import time
 import sys
 import re
-from loguru import logger
 
-# Configure the logger
-logger.add("debug.log", level="DEBUG", rotation="1 MB", retention="10 days")
-logger.add(sys.stderr, level="INFO")  # Output to stderr for normal logs
-
-async def join(game_pin):
+def join(game_pin):
     sessionRequest = httpx.get(f'https://kahoot.it/reserve/session/{game_pin}/?{int(time.time() * 1000)}')
 
     sessionToken = sessionRequest.headers['x-kahoot-session-token']
@@ -285,9 +280,14 @@ async def join(game_pin):
     except Exception as e:
         logger.error("An error occurred: {}", e)
 
-async def run_join_multiple_times(value, times=50):
-    tasks = [join(value) for _ in range(times)]
-    await asyncio.gather(*tasks)
+if __name__ == "__main__":
+    # Configure the logger
+    from loguru import logger
+    logger.add("debug.log", level="DEBUG", rotation="1 MB", retention="10 days")
+    logger.add(sys.stderr, level="INFO")  # Output to stderr for normal logs
+    async def run_join_multiple_times(value, times=50):
+        tasks = [join(value) for _ in range(times)]
+        await asyncio.gather(*tasks)
 
-# Call the function
-asyncio.run(run_join_multiple_times(8144645))
+    # Call the function
+    asyncio.run(run_join_multiple_times(8144645))
