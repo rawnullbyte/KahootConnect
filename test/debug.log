@@ -1070,3 +1070,1003 @@
 2024-09-24 18:57:16.865 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
 2024-09-24 18:57:16.866 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 9, 'timesync': {'tc': 1727197036865, 'l': 0, 'o': 0}}}
 2024-09-24 18:57:16.866 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.385 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046383, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.388 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.389 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046388, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.390 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.393 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046391, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.395 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.400 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046400, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.401 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.405 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046402, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.405 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.407 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046406, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.407 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.408 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046408, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.409 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.410 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046409, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.411 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.499 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046498, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.503 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.506 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046505, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.507 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.511 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046511, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.527 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.531 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046531, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.534 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.538 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046534, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.540 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.545 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046545, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.546 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.547 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046547, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.553 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.633 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046633, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.633 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.634 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046634, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.634 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.679 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046679, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.680 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.681 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046680, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.681 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.682 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046682, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.683 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.684 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046683, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.684 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.685 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046684, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.685 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.686 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046685, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.686 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.687 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046686, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.687 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.688 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046688, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.688 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.726 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046726, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.727 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.727 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046727, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.728 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.729 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046728, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.729 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.730 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046730, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.730 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.731 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046731, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.732 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.732 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046732, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.733 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.734 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046733, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.734 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.773 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046773, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.773 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.775 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046775, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.775 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.776 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046776, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.776 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.777 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046777, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.777 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.820 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046820, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.821 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.821 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046821, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.822 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.867 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046867, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.868 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.869 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046869, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.869 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.870 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046870, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.870 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.871 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046871, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.871 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.872 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046872, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.873 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.873 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046873, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.874 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.874 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046874, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.874 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.875 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046875, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.875 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.876 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046876, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.876 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.877 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046877, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.877 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.878 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046878, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.878 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:26.879 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 10, 'timesync': {'tc': 1727197046879, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:26.879 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.404 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056404, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.405 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.405 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056405, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.406 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.407 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056406, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.407 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.408 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056407, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.408 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.409 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056409, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.409 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.411 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056410, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.411 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.412 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056412, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.413 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.414 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056413, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.414 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.514 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056514, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.515 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.516 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056516, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.516 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.532 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056532, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.533 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.533 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056533, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.534 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.535 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056535, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.535 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.537 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056536, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.537 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.562 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056562, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.562 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.641 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056641, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.642 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.642 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056642, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.643 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.703 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056703, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.704 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.704 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056704, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.705 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.706 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056705, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.706 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.707 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056707, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.707 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.708 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056708, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.708 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.709 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056709, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.710 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.711 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056711, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.712 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.712 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056712, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.713 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.734 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056734, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.734 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.735 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056735, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.736 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.737 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056737, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.738 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.739 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056738, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.739 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.740 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056740, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.740 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.741 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056741, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.741 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.742 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056742, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.742 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.781 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056781, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.781 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.781 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056781, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.783 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.783 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056783, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.784 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.784 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056784, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.784 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.843 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056843, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.844 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.844 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056844, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.845 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.890 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056890, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.890 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.891 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056891, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.892 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.892 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056892, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.893 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.894 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056893, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.894 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.895 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056894, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.895 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.896 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056895, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.896 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.897 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056896, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.897 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.898 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056898, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.898 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.899 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056899, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.899 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.900 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056900, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.900 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.901 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056901, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.901 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:36.902 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 11, 'timesync': {'tc': 1727197056901, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:36.902 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.426 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066425, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.433 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.443 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066442, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.443 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.445 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066443, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.446 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.447 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066447, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.448 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.448 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066448, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.449 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.449 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066449, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.450 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.451 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066450, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.451 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.452 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066452, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.453 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.520 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066520, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.521 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.522 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066522, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.523 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.523 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066523, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.524 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.524 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066524, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.525 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.526 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066525, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.526 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.526 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066526, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.527 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.571 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066567, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.573 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.644 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066644, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.645 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.646 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066646, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.647 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.709 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066709, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.715 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.718 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066717, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.718 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.719 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066719, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.720 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.721 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066721, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.735 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.773 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066772, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.774 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.775 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066774, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.775 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.777 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066777, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.778 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.779 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066779, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.779 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.781 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066780, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.781 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.782 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066782, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.783 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.783 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066783, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.784 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.786 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066785, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.789 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.792 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066791, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.793 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.795 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066794, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.795 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.797 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066796, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.798 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.803 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066801, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.804 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.805 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066805, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.816 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.818 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066817, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.818 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.820 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066819, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.821 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.822 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066821, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.822 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.823 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066823, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.823 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.895 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066895, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.896 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.898 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066897, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.898 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.899 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066899, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.899 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.900 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066900, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.900 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.901 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066901, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.901 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.902 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066902, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.902 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.903 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066903, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.904 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.904 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066904, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.905 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.905 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066905, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.906 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.906 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066906, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.907 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.907 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066907, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.908 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:46.908 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 12, 'timesync': {'tc': 1727197066908, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:46.909 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.432 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076432, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.433 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.463 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076463, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.463 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.465 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076465, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.466 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.466 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076466, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.467 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.467 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076467, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.468 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.468 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076468, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.469 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.469 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076469, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.470 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.470 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076470, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.471 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.526 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076526, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.527 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.527 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076527, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.528 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.528 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076528, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.529 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.530 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076529, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.530 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.531 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076531, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.531 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.532 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076532, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.532 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.577 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076577, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.577 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.650 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076650, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.651 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.651 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076651, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.652 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.727 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076727, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.728 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.729 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076728, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.729 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.730 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076730, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.730 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.789 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076789, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.790 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.790 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076790, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.791 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.791 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076791, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.792 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.793 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076792, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.793 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.794 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076794, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.794 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.796 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076796, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.796 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.797 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076797, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.797 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.798 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076798, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.798 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.798 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076798, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.799 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.800 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076799, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.800 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.801 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076801, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.801 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.802 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076802, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.802 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.803 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076803, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.803 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.804 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076804, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.804 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.821 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076821, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.822 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.822 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076822, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.823 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.823 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076823, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.824 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.824 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076824, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.825 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.916 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076916, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.917 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.917 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076917, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.918 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.919 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076918, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.919 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.920 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076919, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.920 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.921 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076921, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.921 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.922 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076922, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.922 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.923 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076923, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.923 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.924 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076924, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.924 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.925 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076925, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.925 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.926 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076926, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.926 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.927 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076926, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.927 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:57:56.928 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 13, 'timesync': {'tc': 1727197076928, 'l': 0, 'o': 0}}}
+2024-09-24 18:57:56.928 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.433 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086433, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.434 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.480 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086480, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.481 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.481 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086481, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.482 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.482 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086482, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.483 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.484 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086483, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.484 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.485 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086485, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.485 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.486 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086486, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.486 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.487 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086487, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.487 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.543 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086543, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.543 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.545 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086545, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.545 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.546 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086546, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.546 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.547 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086547, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.548 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.548 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086548, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.549 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.550 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086549, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.550 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.590 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086590, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.591 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.667 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086667, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.668 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.668 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086668, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.669 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.745 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086745, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.746 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.747 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086746, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.747 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.748 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086748, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.748 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.808 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086807, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.808 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.809 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086809, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.809 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.810 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086810, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.811 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.811 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086811, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.812 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.813 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086812, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.813 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.814 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086814, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.814 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.815 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086815, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.815 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.816 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086816, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.817 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.817 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086817, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.818 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.818 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086818, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.819 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.819 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086819, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.820 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.820 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086820, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.821 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.821 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086821, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.822 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.822 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086822, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.823 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.824 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086824, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.824 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.825 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086825, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.826 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.826 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086826, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.827 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.827 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086827, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.828 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.932 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086932, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.933 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.933 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086933, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.933 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.935 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086935, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.935 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.935 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086935, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.936 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.936 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086936, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.937 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.938 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086937, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.938 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.939 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086938, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.939 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.940 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086939, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.940 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.941 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086941, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.942 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.942 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086942, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.943 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.943 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086943, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.944 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:06.944 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 14, 'timesync': {'tc': 1727197086944, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:06.945 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.432 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096432, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.433 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.494 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096494, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.495 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.495 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096495, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.496 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.497 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096496, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.497 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.498 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096498, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.498 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.499 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096499, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.499 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.500 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096500, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.500 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.501 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096501, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.502 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.540 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096540, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.541 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.543 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096542, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.543 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.544 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096544, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.544 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.545 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096545, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.545 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.546 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096546, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.546 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.547 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096547, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.548 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.584 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096584, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.584 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.682 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096682, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.683 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.683 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096683, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.684 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.761 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096760, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.763 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.781 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096780, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.783 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.784 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096784, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.787 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.823 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096823, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.825 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.826 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096825, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.827 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.828 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096828, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.829 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.829 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096829, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.830 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.831 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096831, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.831 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.832 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096832, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.832 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.834 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096833, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.836 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.839 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096839, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.840 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.843 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096842, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.843 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.844 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096844, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.844 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.845 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096845, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.845 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.846 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096846, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.846 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.849 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096848, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.852 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.857 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096857, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.858 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.859 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096859, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.860 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.862 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096861, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.862 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.863 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096863, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.864 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.865 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096864, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.865 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.935 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096934, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.940 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.942 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096941, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.942 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.943 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096943, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.944 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.947 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096944, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.949 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.950 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096950, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.951 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.952 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096951, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.953 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.954 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096954, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.954 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.955 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096955, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.956 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.957 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096957, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.957 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.958 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096958, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.959 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.960 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096960, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.961 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:16.962 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 15, 'timesync': {'tc': 1727197096962, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:16.962 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.435 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106435, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.436 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.499 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106499, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.500 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.501 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106501, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.502 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.502 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106502, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.503 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.504 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106503, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.504 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.505 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106504, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.505 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.506 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106505, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.506 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.507 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106506, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.508 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.546 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106546, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.547 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.547 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106547, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.548 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.549 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106549, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.549 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.550 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106550, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.551 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.552 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106551, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.552 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.553 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106553, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.553 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.592 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106592, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.592 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.701 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106701, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.702 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.702 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106702, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.703 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.795 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106795, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.795 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.795 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106795, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.796 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.796 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106796, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.797 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.841 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106841, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.842 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.842 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106842, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.843 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.844 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106843, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.844 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.844 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106844, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.845 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.845 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106845, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.845 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.846 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106846, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.846 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.847 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106847, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.848 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.848 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106848, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.849 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.849 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106849, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.850 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.850 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106850, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.851 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.851 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106851, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.852 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.852 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106852, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.852 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.854 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106853, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.854 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.855 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106854, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.855 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.856 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106855, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.856 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.857 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106857, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.857 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.858 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106858, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.858 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.887 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106887, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.888 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.949 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106949, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.950 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.950 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106950, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.951 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.951 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106951, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.952 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.953 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106952, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.953 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.954 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106954, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.954 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.954 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106954, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.955 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.955 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106955, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.956 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.957 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106956, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.958 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.958 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106958, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.959 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.959 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106959, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.960 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.960 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106960, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.961 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:26.961 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 16, 'timesync': {'tc': 1727197106961, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:26.961 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.429 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116428, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.429 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.508 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116508, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.509 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.510 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116509, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.510 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.511 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116511, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.511 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.512 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116512, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.512 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.513 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116513, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.514 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.515 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116514, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.515 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.516 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116516, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.516 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.555 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116555, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.556 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.557 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116556, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.557 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.558 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116557, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.558 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.559 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116559, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.559 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.560 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116560, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.560 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.560 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116560, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.561 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.602 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116602, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.603 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.711 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116711, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.712 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.713 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116712, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.713 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.806 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116806, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.807 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.808 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116807, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.808 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.809 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116809, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.809 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.854 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116854, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.855 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.856 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116856, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.857 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.858 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116857, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.859 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.859 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116859, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.859 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.860 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116860, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.860 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.861 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116861, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.862 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.863 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116862, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.863 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.864 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116864, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.865 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.866 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116865, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.866 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.867 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116866, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.867 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.868 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116867, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.868 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.870 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116869, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.870 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.871 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116871, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.871 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.872 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116872, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.873 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.873 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116873, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.874 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.875 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116874, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.875 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.876 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116876, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.876 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.877 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116877, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.878 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.962 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116962, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.963 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.963 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116963, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.964 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.965 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116964, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.965 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.966 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116965, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.967 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.968 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116968, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.968 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.969 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116969, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.969 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.970 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116970, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.970 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.971 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116971, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.971 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.971 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116971, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.972 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.973 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116973, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.974 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.975 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116974, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.975 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:36.976 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 17, 'timesync': {'tc': 1727197116976, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:36.976 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.444 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126444, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.444 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.522 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126522, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.523 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.523 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126523, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.524 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.525 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126524, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.525 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.526 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126525, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.526 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.527 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126527, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.527 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.528 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126528, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.528 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.529 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126529, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.529 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.569 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126569, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.569 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.570 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126570, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.571 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.572 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126571, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.572 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.573 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126573, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.573 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.574 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126574, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.574 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.575 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126575, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.575 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.617 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126617, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.618 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.725 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126725, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.726 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.726 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126726, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.727 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.818 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126818, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.818 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.819 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126819, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.820 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.820 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126820, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.821 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.865 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126865, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.866 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.867 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126866, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.867 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.868 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126867, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.868 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.869 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126869, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.869 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.870 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126870, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.870 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.871 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126871, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.872 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.872 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126872, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.873 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.873 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126873, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.874 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.874 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126874, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.875 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.875 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126875, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.876 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.876 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126876, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.877 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.877 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126877, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.878 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.878 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126878, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.879 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.879 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126879, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.879 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.880 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126880, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.881 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.881 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126881, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.882 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.882 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126882, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.882 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.883 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126883, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.883 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.972 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126972, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.973 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.973 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126973, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.974 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.975 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126974, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.975 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.976 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126975, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.976 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.977 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126977, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.978 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.978 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126978, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.978 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.979 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126979, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.979 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.980 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126980, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.981 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.981 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126981, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.982 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.982 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126982, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.983 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.984 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126983, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.984 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:46.985 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 18, 'timesync': {'tc': 1727197126984, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:46.985 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.452 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patz120urbf2xflzshqnd7nr8bpd', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136451, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.452 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.532 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patu7n871qktjbbk5z06fqkt1di0', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136532, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.533 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.533 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paty10xekvuv6o54713rbozmnjmbm7', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136533, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.534 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.535 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patv1hbaa39se9b0y41tfx3a6to98', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136534, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.535 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.536 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patw12lgedbwcpq141h3aykqdjx757', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136536, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.537 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.538 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pats1b0pi1p158z5k1vqo1azdny20u', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136537, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.538 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.539 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patrmhlxn34cvgaj1rlvx61f63wpx', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136539, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.539 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.540 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patt1tfzf7v3sl0ds7gzlnh49pacp', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136540, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.540 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.580 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau11jgiotfcznya3njg4qzznfwh8', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136580, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.580 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.581 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paunh3ef6pdbth36xrzeut25yhpb', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136581, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.582 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.582 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paul18u9wv18ri4mx3np22bz8emv6', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136582, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.583 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.584 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau41uy09sw8czi112zsej8sc1pwf', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136583, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.584 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.585 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav31p4f3kpady6oz1r34ykvwurnq1', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136585, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.585 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.586 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauqb0si14qpfs2e13sa1v2xfcehh', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136586, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.587 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.626 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paup358bsg1swa8zrkw3pj97j0xo', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136626, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.627 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.734 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau9iarw7kgj3j65ulw3dkcvb3t8', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136734, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.735 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.735 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau04jcfnrj2ahdnp8dhf20frtjp', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136735, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.736 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.842 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paumwwagtcyfcizt8xrev8mazzl8', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136842, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.843 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.843 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paujnrhymgb6232z1j55nenmtmodc', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136843, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.844 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.844 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau57scl72fcqf3227ujhc5ocega', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136844, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.845 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.889 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauo1eif345d5v8znbpla9tga2r0h', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136889, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.890 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.890 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauc10iy8mo91ncyn15nuy5ittfyzv', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136890, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.891 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.891 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauyxdktz2kl1n3nmiwovvx08f3d', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136891, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.892 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.892 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paut1n8rx93xsqa7ckes6einpe4b5', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136892, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.893 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.893 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paug11c8dcs0boiiy1ibtis924xr8l', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136893, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.894 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.894 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paud18tbem67g22vn1rrqgvp0bkpho', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136894, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.895 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.896 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau81ovcnyf01l3tr59rkyyklgyu4', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136895, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.896 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.897 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau61dx073jr10wmzehi20bfb5igr', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136897, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.897 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.898 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paue8ge871aszul716i9qa7cuaicr', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136898, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.898 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.899 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauzuzgefivmrpxlntzvqx2xkcom', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136899, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.899 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.900 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paub1cyzf5hi6t9911szkixq5wignd', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136900, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.900 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.901 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paur1eydjkaxwyjvwtnlfz7kwm4b9', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136901, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.901 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.902 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav41bf4quxs8w975e400ypq59w34', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136902, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.903 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.903 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3paua1k3d2b7n6938e14hftaj8ob72h', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136903, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.904 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.905 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pau7ay34abs06vqn1nk2mmh9vivt8', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136904, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.905 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.906 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauk4gar9fw1f8n217w2t22g9cvan', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136905, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.906 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.907 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pause2b489lumiz8okyjgxn1r5m2', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136907, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.907 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.908 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3patxy8ykxpuqd59g9swkranysbky', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136908, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.908 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.983 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav118qbufuwl1yjmdk46g2zsux3o', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136983, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.984 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.984 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauwg8lzdkjl9h86tn4h81ln3bvg', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136984, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.985 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.986 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauuhsap2ibr1p1e1emqzwlhffvpn', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136985, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.986 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.987 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauxnek96sbklo8jelrsko6f9qih', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136987, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.988 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.988 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav03nwn6ijnnnw316o4x4ojh4x9k', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136988, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.989 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.989 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav51xfpbwin5ukjq16lmqsedj2qxp', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136989, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.990 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.990 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauf109ok88nu9ziv1f0mgr7ilfba0', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136990, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.991 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.991 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav6py6kke5u6jt018uoj2di16w2u', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136991, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.992 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.992 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauilsmaasgjx5w514dtccp091jfs', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136992, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.993 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.993 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauv1z987krqcwg31y1jjshk7iam9', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136993, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.994 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.994 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pauh1i9mp42ogb34c1cvpd2ykoq608', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136994, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.995 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
+2024-09-24 18:58:56.995 | DEBUG    | __main__:send_heartbeat:263 - Heartbeat sent: {'id': '8', 'channel': '/meta/connect', 'connectionType': 'websocket', 'clientId': '3pav2kulm468uyabq1nv0z0trs5277', 'ext': {'ack': 19, 'timesync': {'tc': 1727197136995, 'l': 0, 'o': 0}}}
+2024-09-24 18:58:56.995 | WARNING  | __main__:send_heartbeat:264 - Heartbeat sent!
