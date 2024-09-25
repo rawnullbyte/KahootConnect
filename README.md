@@ -14,6 +14,9 @@ Work In Progress!
 # Documentation:
 Work In Progress!
 
-# Kahoot Docs (OUTDATED)
- [Need api docs?](KahootProtocol.md)
- [More detailed docs?](KahootProtocolDetailed.md)
+# Kahoot Docs
+
+
+## (OUTDATED DOCS)
+ [Need api docs?](KahootProtocolOutdated.md)
+ [More detailed docs?](KahootProtocolDetailedOutdated.md)
