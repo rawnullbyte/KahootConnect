@@ -10,7 +10,8 @@ or, clone the repo and
 # Usage
 
 **Join room**
-```import asyncio
+```python
+import asyncio
 import logging
 from kahoot_connect import KahootClient  # Assuming kahoot_connect is the module name where KahootClient is defined
 
