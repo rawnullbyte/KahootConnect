@@ -14,9 +14,13 @@ KahootConnect is a Kahoot API written in python, that Kahoot can't take down ðŸ¤
 
 # Installation
 
-`pip install -U KahootConnect`
-or, clone the repo and
-`python3 -m pip install -e ./KahootConnect`
+```bash
+pip install -U KahootConnect
+```
+or clone the repo and
+```bash
+python3 -m pip install -e ./KahootConnect
+```
 
 # Usage
 
