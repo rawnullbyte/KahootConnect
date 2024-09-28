@@ -24,7 +24,7 @@ or, clone the repo and
 
 First, you need to import the `KahootClient` class from the package:
 
-```
+```python
 from kahoot_client import KahootClient
 ```
 
@@ -32,7 +32,7 @@ from kahoot_client import KahootClient
 
 You can create an instance of the `KahootClient` class with optional logging:
 
-```
+```python
 import logging
 
 # Set up logging
@@ -46,7 +46,7 @@ client = KahootClient()
 
 To join a Kahoot game, use the `join` method, passing the game pin and your nickname:
 
-```
+```python
 import asyncio
 
 async def main():
@@ -66,7 +66,7 @@ asyncio.run(main())
  [Need api docs?](KahootProtocolOutdated.md)
  [More detailed docs?](KahootProtocolDetailedOutdated.md)
 
- ### Logging
+# Logging
 
 The client uses Python's built-in logging module to provide debug information. You can configure the logging level to control the verbosity:
 
@@ -74,7 +74,7 @@ The client uses Python's built-in logging module to provide debug information. Y
 logging.basicConfig(level=logging.DEBUG)  # Set to DEBUG to see all logs
 ```
 
-## Error Handling
+# Error Handling
 
 The `join` method may raise exceptions, particularly related to WebSocket connections. It's recommended to wrap your calls in try-except blocks to handle potential errors gracefully.
 
@@ -85,11 +85,11 @@ except Exception as e:
     print(f"An error occurred: {e}")
 ```
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
+# Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
 
