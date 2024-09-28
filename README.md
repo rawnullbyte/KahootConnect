@@ -9,7 +9,32 @@ or, clone the repo and
 
 # Usage
 
-Work In Progress!
+**Join room**
+```import asyncio
+import logging
+from kahoot_connect import KahootClient  # Assuming kahoot_connect is the module name where KahootClient is defined
+
+# Configure logging
+logging.basicConfig(level=logging.DEBUG)
+
+async def main():
+    # Create an instance of KahootClient
+    client = KahootClient()
+
+    # Define the game pin and nickname
+    game_pin = "123456"  # Replace with the actual game PIN
+    nickname = "Player1"  # Replace with the desired nickname
+
+    try:
+        # Join the Kahoot game
+        await client.join(game_pin, nickname)
+    except Exception as e:
+        logging.error(f"An error occurred: {e}")
+
+# Run the async main function
+if __name__ == "__main__":
+    asyncio.run(main())
+```
 
 # Documentation:
 Work In Progress!
