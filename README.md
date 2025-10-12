@@ -10,7 +10,7 @@
 - Customizable logging for debugging purposes.
 
 # About
-KahootConnect is a Kahoot API written in python, that Kahoot can't take down 🤡 #REForever
+KahootConnect is a Kahoot API written in python.
 
 # Installation
 
