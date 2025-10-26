@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="KahootConnect",
-    version="0.2.6",
-    author="HackySoft",
+    version="0.3.0",
+    author="NullByte",
     author_email="andrexyt@proton.me",
     description="A python package to interact with Kahoot!",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/HackySoftOfficial/KahootConnect",
+    url="https://github.com/rawnullbyte/KahootConnect",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
