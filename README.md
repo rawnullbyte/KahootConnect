@@ -29,7 +29,7 @@
     - [x] Quiz (Quiz, CLASSIC)
     - [x] True or false (Quiz, TRUE_FALSE)
     - [x] Type Answer (Open-ended)
-    - [ ] Puzzle (Jumble)
+    - [x] Puzzle (Jumble)
     - [ ] Quiz + Audio
     - [x] Slider
     - [ ] Pin answer
@@ -64,4 +64,5 @@
     - [ ] name
     - [ ] score
     - [ ] exists
+
 
