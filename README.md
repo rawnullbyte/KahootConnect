@@ -26,10 +26,10 @@
 
 - [ ] Game Blocks
   - [ ] Types
-    - [x] Quiz
-    - [x] True or false
-    - [x] Type Answer
-    - [ ] Puzzle
+    - [x] Quiz (Quiz, CLASSIC)
+    - [x] True or false (Quiz, TRUE_FALSE)
+    - [x] Type Answer (Open-ended)
+    - [ ] Puzzle (Jumble)
     - [ ] Quiz + Audio
     - [x] Slider
     - [ ] Pin answer
@@ -64,3 +64,4 @@
     - [ ] name
     - [ ] score
     - [ ] exists
+
