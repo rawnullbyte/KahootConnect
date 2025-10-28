@@ -15,10 +15,10 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: Other/Proprietary License",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
     keywords=["kahoot","bot","spam"],
-    install_requires=["websockets","httpx","asyncio"],
+    install_requires=["websockets","httpx"],
 )

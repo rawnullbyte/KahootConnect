@@ -1,51 +1,18 @@
-                               HackySoftOfficial
-                      Version 1.0.1, 19 September 2024
+Copyright (c) 2025 Null
 
-        TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-        
-    1. Use
-      You may use our tool for the sole purpose of experimentation. 
-      You may not use this program to cause any harm and/or damage to 
-      any servers even if it is stated that the purpose is to cause harm
-      and/or damage. We do not track any information so the responsibility
-      is on your hand. We also do not care if you use our tool to cause
-      harm and/or damage since that's what we are aiming for.
-      
-      a) We are responsible for any harm and/or damage that you cause and 
-         you are not responsible for it. If someone claims that you are,
-         contact HackySoft for help or show this license to the said person.
-      b) If you think you are being tracked / have proof of spywares in
-         the client, please contact HackySoft and give proof of the spyware
-         as that is a big concern for us.
-    
-    2. Reproduction
-      You may use the client to make your own tool, but only if you add
-      credits or fork. If you are caught to have our client without
-	  credits, you will be held accountable for every damage caused by
-	  the client and will be sued by the o7 External Affairs Group.
-    
-    3. Distribution
-      You are allowed to distribute the client only if there are proper credits.
-      If you are caught to have our client without credits, you will be
-      held accountable for every damage caused by the client and will be
-      sued by the HackySoft Group.
+Permission is hereby granted to any person obtaining a copy of this software
+to use, modify, and distribute it for non-commercial purposes only, subject to
+the following conditions:
 
-   END OF TERMS AND CONDITIONS
+1. Private or commercial use is NOT permitted.
+2. Modifications and contributions are allowed and encouraged, provided that
+   proper credit is given to the original author.
+3. Redistribution of modified versions must retain this notice.
 
-   APPENDIX: How to apply the HackySoft License to your work.
-
-      To apply the HackySoft License to your work, download this LICENSE
-      file or copy the LICENSE and put it in your github as
-      "YourProject/LICENSE". You can also fork the project if you are
-      making your own client.
-
-   Copyright 2024 HackySoft 
-
-   Licensed under the HackySoft License, Version 1.0.1 (the "License");
-   you may not use this file except in compliance with the License.
-      
-   Unless required by applicable law or agreed to in writing, clients
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

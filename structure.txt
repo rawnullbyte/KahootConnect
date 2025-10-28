@@ -1,0 +1,82 @@
+{
+  "status": "ended",
+  "content": {
+    "gameBlockIndex": 8,
+    "totalGameBlockCount": 12,
+    "layout": "TRUE_FALSE",
+    "extensiveMode": false,
+    "type": "quiz",
+    "timeRemaining": -91832,
+    "timeAvailable": 30000,
+    "numberOfAnswersAllowed": 1,
+    "currentQuestionAnswerCount": 0,
+    "numberOfChoices": 2,
+    "questionRestricted": false,
+    "getReadyTimeAvailable": 6534,
+    "getReadyTimeRemaining": 6534,
+    "nextGameBlockData": {
+      "type": "content",
+      "media": [],
+      "imageMetadata": {
+        "id": "ae716b40-76ad-40e4-8259-15cccebdb4b9",
+        "altText": "https://images-cdn.kahoot.it/ae716b40-76ad-40e4-8259-15cccebdb4b9?auto=webp",
+        "contentType": "image/jpeg",
+        "resources": "peupleloup, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+        "width": 640,
+        "height": 427,
+        "crop": {
+          "origin": { "x": 0, "y": 0 },
+          "target": { "x": 640, "y": 427 },
+          "circular": false
+        }
+      },
+      "layout": "TOP_IMAGE"
+    },
+    "questionIndex": 8,
+    "gameBlockType": "quiz",
+    "canZoomImportedSlide": false
+  },
+  "start_time": 1761666387342,
+  "results": {
+    "content": {
+      "rank": 4,
+      "totalScore": 0,
+      "pointsData": {
+        "totalPointsWithBonuses": 0,
+        "questionPoints": 0,
+        "answerStreakPoints": {
+          "streakLevel": 0,
+          "previousStreakLevel": 0
+        },
+        "lastGameBlockIndex": 8
+      },
+      "nemesis": {
+        "name": "dfghjbsdfg",
+        "isGhost": false,
+        "totalScore": 0
+      },
+      "hasAnswer": true,
+      "skip": false,
+      "choice": 0,
+      "points": 0,
+      "correctChoices": [1],
+      "text": "True",
+      "type": "quiz",
+      "isCorrect": false
+    },
+    "pointsData": {
+      "totalPointsWithBonuses": 0,
+      "questionPoints": 0,
+      "answerStreakPoints": {
+        "streakLevel": 0,
+        "previousStreakLevel": 0
+      },
+      "lastGameBlockIndex": 8
+    },
+    "hasAnswer": true,
+    "skip": false,
+    "points": 0,
+    "isCorrect": false,
+    "correct_answers": [1]
+  }
+}

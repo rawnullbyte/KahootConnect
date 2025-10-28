@@ -1,0 +1,24 @@
+LICENSE
+README.md
+setup.py
+ KahootConnect/KahootClient.py
+ KahootConnect/__init__.py
+ KahootConnect/Crypto/TokenDecryptor.py
+ KahootConnect/Crypto/__init__.py
+ KahootConnect/Networking/SessionManager.py
+ KahootConnect/Networking/WebSocketClient.py
+ KahootConnect/Networking/__init__.py
+ KahootConnect/Packets/__init__.py
+ KahootConnect/Packets/Handlers/AnswerHandler.py
+ KahootConnect/Packets/Handlers/GameEventHandler.py
+ KahootConnect/Packets/Handlers/HandshakeHandler.py
+ KahootConnect/Packets/Handlers/LoginHandler.py
+ KahootConnect/Packets/Handlers/__init__.py
+ KahootConnect/Packets/Messages/BaseMessage.py
+ KahootConnect/Packets/Messages/PacketFactory.py
+ KahootConnect/Packets/Messages/__init__.py
+KahootConnect.egg-info/PKG-INFO
+KahootConnect.egg-info/SOURCES.txt
+KahootConnect.egg-info/dependency_links.txt
+KahootConnect.egg-info/requires.txt
+KahootConnect.egg-info/top_level.txt
