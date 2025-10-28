@@ -1,7 +1,7 @@
 # Todo
 - [ ] Kahoot
   - [ ] Events
-    - [ ] ready/joined
+    - [x] ready/joined
     - [x] gameBlockUpdate
     - [ ] feedback
     - [ ] invalidName
@@ -64,5 +64,6 @@
     - [ ] name
     - [ ] score
     - [ ] exists
+
 
 
