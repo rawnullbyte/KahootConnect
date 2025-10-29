@@ -44,10 +44,10 @@
 - [ ] Question
   - [ ] Methods
     - [x] answer
+	- [ ] timeLeft
   - [ ] Properties
     - [x] index
     - [x] timeAvailable
-	- [ ] timeLeft
     - [x] type
     - [x] status (awaiting, started, ended)
 - [ ] Question end (gameBlockUpdate)
@@ -64,6 +64,7 @@
     - [ ] name
     - [ ] score
     - [ ] exists
+
 
 
 
