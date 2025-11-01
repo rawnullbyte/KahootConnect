@@ -76,9 +76,10 @@ class WebSocketClient:
             raise ConnectionError("WebSocket not connected")
         
         await self.websocket.send(json.dumps([packet]))
-        file1 = open("packet_log.txt", "a")
-        file1.write(f"Sent: {packet}\n") ##################################################################################################
-        file1.close()
+        if shared_context.debug:
+            file1 = open("packet_log.txt", "a")
+            file1.write(f"Sent: {packet}\n") ##################################################################################################
+            file1.close()
         self.logger.debug(f"Sent packet: {packet}")
         shared_context.message_counter += 1
 
@@ -106,10 +107,10 @@ class WebSocketClient:
                 
             packet = packets[0] if packets else {}
 
-
-            file1 = open("packet_log.txt", "a")
-            file1.write(f"Received: {packet}\n") ##################################################################################################
-            file1.close()
+            if shared_context.debug:
+                file1 = open("packet_log.txt", "a")
+                file1.write(f"Received: {packet}\n") ##################################################################################################
+                file1.close()
             
             # CRITICAL FIX: Only update ack counter for connect messages with ack field
             if (packet.get('channel') == '/meta/connect' and 

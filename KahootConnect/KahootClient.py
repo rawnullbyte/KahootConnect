@@ -12,7 +12,8 @@ from .Packets.Handlers.GameEventHandler import GameEventHandler
 from .Context import shared_context
 
 class KahootClient:
-    def __init__(self, game_pin: str, player_name: str):
+    def __init__(self, game_pin: str, player_name: str, debug: bool = False):
+        shared_context.debug = debug
         shared_context.game_pin = game_pin
         self.player_name = player_name
         shared_context.player_name = player_name

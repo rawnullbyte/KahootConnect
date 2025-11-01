@@ -14,7 +14,7 @@ async def main():
     player_name = input("Enter your name: ").strip()
     
     # Create client with new constructor
-    client = KahootClient(game_pin, player_name)
+    client = KahootClient(game_pin, player_name, debug=True)
     
     # Set up event handlers using new event names
     async def on_gameBlockUpdate(ctx):

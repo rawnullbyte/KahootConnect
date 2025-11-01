@@ -1,5 +1,6 @@
 class Context:
     def __init__(self):
+        self.debug = False
         self.game_pin = ""
         self.client_id = ""
         self.message_counter = 1
