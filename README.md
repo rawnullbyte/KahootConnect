@@ -1,0 +1,70 @@
+# Todo
+- [ ] Kahoot
+  - [ ] Events
+    - [x] ready/joined
+    - [x] gameBlockUpdate
+    - [ ] feedback
+    - [ ] invalidName
+    - [ ] handshakeFailed
+  - [ ] Methods
+    - [x] join
+    - [ ] reconnect
+    - [x] answerQuestion
+    - [ ] leave
+    - [ ] sendFeedback
+  - [ ] Properties
+    - [ ] token
+    - [x] sessionID
+    - [ ] name
+    - [ ] quiz
+    - [ ] nemesis
+    - [x] totalScore
+    - [x] cid
+    - [ ] team
+    - [ ] usesNamerator
+    - [ ] gamemode
+
+- [ ] Game Blocks
+  - [ ] Types
+    - [x] Quiz (Quiz, CLASSIC)
+    - [x] True or false (Quiz, TRUE_FALSE)
+    - [x] Type Answer (Open-ended)
+    - [x] Puzzle (Jumble)
+    - [ ] Quiz + Audio
+    - [x] Slider
+    - [ ] Pin answer
+    - [ ] Poll
+    - [ ] Word cloud
+    - [ ] Brainstorm
+    - [ ] Drop pin
+    - [x] Open-ended
+    - [ ] Scale
+    - [ ] NPS Scale
+
+- [ ] Question
+  - [ ] Methods
+    - [x] answer
+	- [ ] timeLeft
+  - [ ] Properties
+    - [x] index
+    - [x] timeAvailable
+    - [x] type
+    - [x] status (awaiting, started, ended)
+- [ ] Question end (gameBlockUpdate)
+  - [ ] Properties
+    - [x] correctAnswers
+    - [x] text
+    - [ ] nemesis
+    - [x] points
+    - [x] rank
+    - [ ] streak
+
+- [ ] Nemesis
+  - [ ] Properties
+    - [ ] name
+    - [ ] score
+    - [ ] exists
+
+
+
+
